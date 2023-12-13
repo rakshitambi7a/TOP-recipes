@@ -1,0 +1,58 @@
+body {
+    color:#373731;
+    background-color: #e9e5cc;
+}
+ul{
+    color: #373731;
+    font-family:Jura, DejaVu Sans, sans-serif;
+    font-size: 1.6em;
+    padding-left: 5%;
+}
+.odd{
+    color:#84725e;
+}
+.recipe-name{
+    font-family: "Nova Square", sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.index-head{
+    font-size: 4em;
+    font-family: "Averia Sans Libre", sans-serif;
+    text-align: center;
+    
+}
+li{
+    color: #373731;
+}
+ul > li > a{
+    color: #373731;
+}
+h2{
+    font-family: "Jura", sans-serif;
+    font-size: 1.8em;
+}
+h3{
+    font-family: "Nova Square", sans-serif;
+    font-size: 1.8em;
+    padding-left: 2%;
+}
+img{
+    border-radius: 3%;
+    border-color: #92946f;
+    border-width: 1em;
+    background-color: #373731;
+    height: 380px;
+    width: auto;
+    border: solid;
+    border-color: #84725e;
+    border-width: 3px;
+    border-left: 1px;
+    border-top: 1px;
+
+}
+ol{
+    font-family: "Jura", sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
